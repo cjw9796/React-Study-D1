@@ -1,3 +1,5 @@
+## 로컬 폴더명 : my-app
+
 만약에 node_modules 가 없을 경우
 npm i 입력 후 npm start 시작
 # Getting Started with Create React App
